@@ -1,0 +1,16 @@
+2023-10-23T23:45:55.307Z error: Validation Error: El email no es válido, La contraseña debe tener al menos 6 caracteres
+2023-10-23T23:46:38.192Z error: Validation Error: El email no es válido, La contraseña debe tener al menos 6 caracteres
+2023-10-23T23:47:41.799Z error: Validation Error: La contraseña debe tener al menos 6 caracteres
+2023-10-24T01:59:26.155Z error: Validation Error: La contraseña debe tener al menos 6 caracteres
+2023-10-24T02:05:46.764Z error: Validation Error: La contraseña debe tener al menos 6 caracteres
+2023-10-24T02:05:46.766Z error: Error 400 - La contraseña debe tener al menos 6 caracteres
+2023-10-24T02:09:50.820Z error: Error 500 - Product validation failed: precio: Path `precio` (-40.99) is less than minimum allowed value (0).
+2023-10-24T16:01:15.394Z error: Validation Error: El email no es válido
+2023-10-24T16:01:15.395Z error: Error 400 - El email no es válido
+2023-10-24T16:01:21.319Z error: Validation Error: El email no es válido, La contraseña debe tener al menos 6 caracteres
+2023-10-24T16:01:21.320Z error: Error 400 - El email no es válido, La contraseña debe tener al menos 6 caracteres
+2023-10-24T16:03:48.954Z error: Validation Error: El email no es válido, La contraseña debe tener al menos 6 caracteres
+2023-10-24T16:03:48.955Z error: Error 400 - El email no es válido, La contraseña debe tener al menos 6 caracteres
+2023-10-24T16:03:58.884Z error: Validation Error: La contraseña debe tener al menos 6 caracteres
+2023-10-24T16:03:58.885Z error: Error 400 - La contraseña debe tener al menos 6 caracteres
+2023-10-24T16:09:00.778Z error: Error 500 - jwt expired
